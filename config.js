@@ -21,7 +21,7 @@ for (let i = 0; i < ownerlist.length; i += 2) {
     global.owner.push(owner);
 }
 
-//global.pairingNumber = "" //put your bot number here
+//global.pairingNumber = "" //233544482494
 
 global.mods = ['254743706010', '254700143167']
 global.prems = ['254743706010', '254700143167', '254755267907']
@@ -71,8 +71,8 @@ global.APIKeys = {
 // Sticker WM
 global.botname = process.env.BOTNAME
 global.premium = 'true'
-global.packname = 'silva'
-global.author = 'silva'
+global.packname = 'Official OnePesewa
+global.author = 'Official OnePesewa 
 global.menuvid = ''
 global.igfg = ''
 global.dygp = ''
